@@ -1,4 +1,6 @@
-### <picture><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=/kod+~+root%40rootkod.ru" alt="Typing SVG" /></picture>
+### <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Error+%E2%89%A0+failure%3B;it's+debugging+data.;finally%3A+don't+power+off." alt="Typing SVG" />
+</p>
 
 <pre lang="java">
 /*
