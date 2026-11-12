@@ -1,5 +1,5 @@
 ### <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Error+%E2%89%A0+failure%3B;it's+debugging+data.;finally%3A+don't+power+off." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Error+%E2%89%A0+failure;it's+debugging+data.;finally+don't+power+off.;/kod+~+root%40rootkod.ru" alt="Typing SVG"/>
 </p>
 
 <pre lang="java">
@@ -21,7 +21,9 @@ public class Philosophy {
 </pre>
 
 ---
-
 <p align="center">
-  <i>«Error ≠ failure; it's debugging data. finally: don't power off.»</i>
+  <h4>
+    <i>Be like root: have access to the core and take responsibility for the system.</i><br>
+    <i>Будь как root: имей доступ к сути и бери ответственность за систему.</i>
+  </h4>
 </p>
